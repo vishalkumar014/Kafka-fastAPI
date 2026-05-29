@@ -10,5 +10,10 @@ async def middleware(request:Request,next):
     response = await next(request)
     return response
 
+hi
 app.include_router(router)
+
+
+
+hello
 
