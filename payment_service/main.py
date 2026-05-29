@@ -12,3 +12,7 @@ async def middleware(request:Request,next):
 
 app.include_router(router)
 
+
+
+hello
+
